@@ -10,13 +10,16 @@ Members:
 Deliverables:
 - Shared GitHub repo (due 3/28)
 - README of project description, references, goals (due 3/28)
+- Intercept packets with arpspoof
 - Test running HTTP/HTTPS Proxy Server on the raspberry pi
 - Intercept and manipulate HTTP/HTTPS packets
 
+- Hardware
+  - Raspberry Pi
+  - Panda Wireless Adapter
+
 - Software
   - Kali Linux
-  - mitmproxy
-  - Python
 
 References:
 - MitM:
@@ -25,6 +28,7 @@ References:
   - https://www.adamengle.com/2016/12/08/raspberry-pi-3-mitmproxy/
   - http://www.kalitut.com/2017/11/RaspberryPi-man-in-the-middle.html
   - http://jeffq.com/blog/setting-up-a-man-in-the-middle-device-with-raspberry-pi-part-1/
+  - https://ourcodeworld.com/articles/read/422/how-to-perform-a-man-in-the-middle-mitm-attack-with-kali-linux
 - Proxy server
   - https://ccm.net/faq/804-installing-an-http-proxy-server-squid#2-5-authorizing-access-to-group
   - https://github.com/abhinavsingh/proxy.py
