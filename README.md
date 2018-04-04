@@ -14,12 +14,27 @@ Deliverables:
 - Test running HTTP/HTTPS Proxy Server on the raspberry pi
 - Intercept and manipulate HTTP/HTTPS packets
 
-- Hardware
+Hardware:
   - Raspberry Pi
   - Panda Wireless Adapter
 
-- Software
+Software:
   - Kali Linux
+  - Python
+  - mitmproxy
+  - hostapd
+  - arpspoof
+  - urlsnarf
+
+Completed:
+- [Simple man in the middle attack using arpspoof](./simple-mitm.md)
+
+Current challenges:
+- Setting up dhcp server
+- Setting up access point
+
+End goal:
+- Ability to manipulate packets between victim and router
 
 References:
 - MitM:
