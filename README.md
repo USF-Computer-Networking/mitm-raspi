@@ -17,3 +17,14 @@ Deliverables:
   - Kali Linux
   - mitmproxy
   - Python
+
+References:
+- MitM:
+  - https://docs.mitmproxy.org/stable/
+  - https://hackaday.io/project/10338-raspberry-pi-mitm#menu-description
+  - https://www.adamengle.com/2016/12/08/raspberry-pi-3-mitmproxy/
+  - http://www.kalitut.com/2017/11/RaspberryPi-man-in-the-middle.html
+  - http://jeffq.com/blog/setting-up-a-man-in-the-middle-device-with-raspberry-pi-part-1/
+- Proxy server
+  - https://ccm.net/faq/804-installing-an-http-proxy-server-squid#2-5-authorizing-access-to-group
+  - https://github.com/abhinavsingh/proxy.py
